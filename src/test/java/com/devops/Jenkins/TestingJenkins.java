@@ -9,6 +9,7 @@ public class TestingJenkins {
 	@Test
 	public void test() {
 		App.hello();
+		System.out.println("Testing Jenkins Git integration");
 	}
 
 }
